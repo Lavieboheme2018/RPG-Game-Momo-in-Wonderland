@@ -1,4 +1,5 @@
 # RPG-Game-Momo-in-Wonderland
+<img width="1109" alt="Screenshot 2024-08-05 at 19 10 13" src="https://github.com/user-attachments/assets/0ec68b39-d310-4486-bec9-2abb5655089b">
 
 # GAME DESCRIPTION
 
