@@ -1,0 +1,536 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unity project\\RPG2023\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|D:\\unity project\\RPG2023\\assets\\scripts\\manager\\gamemanager_03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\gamemanager_03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|d:\\unity project\\rpg2023\\assets\\scripts\\bosstalkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bosstalkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|d:\\unity project\\rpg2023\\assets\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|d:\\unity project\\rpg2023\\assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|D:\\unity project\\RPG2023\\assets\\scripts\\ui\\hpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\hpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|D:\\unity project\\RPG2023\\assets\\scripts\\other\\chestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\other\\chestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|D:\\unity project\\RPG2023\\assets\\scripts\\manager\\gamemanager_02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\gamemanager_02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|D:\\unity project\\RPG2023\\assets\\scripts\\weapon\\scytheweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\scytheweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|D:\\unity project\\RPG2023\\assets\\scripts\\player\\playerproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|D:\\unity project\\RPG2023\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|D:\\unity project\\RPG2023\\assets\\scripts\\ui\\playerpropertyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\playerpropertyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|D:\\unity project\\RPG2023\\assets\\scripts\\so\\itemso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\so\\itemso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|D:\\unity project\\RPG2023\\assets\\scripts\\manager\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|D:\\unity project\\RPG2023\\assets\\scripts\\player\\playerpick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerpick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|D:\\unity project\\RPG2023\\assets\\scripts\\ui\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|D:\\unity project\\RPG2023\\assets\\scripts\\scene\\loadnextlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene\\loadnextlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|D:\\unity project\\RPG2023\\assets\\scripts\\player\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|D:\\unity project\\RPG2023\\assets\\scripts\\other\\cameraanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\other\\cameraanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|D:\\unity project\\RPG2023\\assets\\scripts\\other\\opendoor_01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\other\\opendoor_01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|D:\\unity project\\RPG2023\\assets\\scripts\\interactable\\tasknpcobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable\\tasknpcobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|D:\\unity project\\RPG2023\\assets\\scripts\\interactable\\gametaskso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable\\gametaskso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|D:\\unity project\\RPG2023\\assets\\scripts\\scene\\loadanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene\\loadanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\unity project\\rpg2023\\assets\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|D:\\unity project\\RPG2023\\assets\\scripts\\other\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\other\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|D:\\unity project\\RPG2023\\assets\\scripts\\enemy\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|D:\\unity project\\RPG2023\\assets\\scripts\\scene\\dontdestory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene\\dontdestory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity project\\RPG2023\\Library\\PackageCache\\com.unity.ugui@2.0.0\\Runtime\\UGUI\\EventSystem\\EventSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@2.0.0\\Runtime\\UGUI\\EventSystem\\EventSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|D:\\unity project\\RPG2023\\assets\\scripts\\ui\\itemdetailui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\itemdetailui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|D:\\unity project\\RPG2023\\assets\\scripts\\weapon\\javelinbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\javelinbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|D:\\unity project\\RPG2023\\assets\\scripts\\ui\\itemui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\itemui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|D:\\unity project\\RPG2023\\assets\\scripts\\ui\\messageui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F403C9-62F7-521A-D0E6-9C2621CDD817}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\messageui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity project\\RPG2023\\assets\\scripts\\hpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\hpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BossTalkController.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\BossTalkController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BossTalkController.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\BossTalkController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BossTalkController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T00:29:35.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\MenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\MenuController.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\MenuController.cs",
+              "RelativeToolTip": "Assets\\MenuController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T23:59:32.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Manager\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\InventoryManager.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Manager\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\InventoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:11:59.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:05:04.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerProperty.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Player\\PlayerProperty.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerProperty.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Player\\PlayerProperty.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerProperty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T09:49:01.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScytheWeapon.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Weapon\\ScytheWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\ScytheWeapon.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Weapon\\ScytheWeapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon\\ScytheWeapon.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAC8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T03:03:31.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager_03.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Manager\\GameManager_03.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\GameManager_03.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Manager\\GameManager_03.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\GameManager_03.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T19:14:59.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HPController.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\UI\\HPController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\HPController.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\UI\\HPController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\HPController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T23:40:17.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChestController.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Other\\ChestController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Other\\ChestController.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Other\\ChestController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Other\\ChestController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:46:54.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIA7wCcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:22:49.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameManager_02.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Manager\\GameManager_02.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\GameManager_02.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Manager\\GameManager_02.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\GameManager_02.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAADUAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:45:34.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemSO.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\SO\\ItemSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SO\\ItemSO.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\SO\\ItemSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SO\\ItemSO.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAArwCYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:12:23.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerPropertyUI.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\UI\\PlayerPropertyUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PlayerPropertyUI.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\UI\\PlayerPropertyUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PlayerPropertyUI.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAArwFgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:18:57.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UIController.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\UI\\UIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIController.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\UI\\UIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:25:31.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerPick.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Player\\PlayerPick.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerPick.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Player\\PlayerPick.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerPick.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:35:28.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CameraAnim.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Other\\CameraAnim.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Other\\CameraAnim.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Other\\CameraAnim.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Other\\CameraAnim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:57:41.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoadNextLevel.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Scene\\LoadNextLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scene\\LoadNextLevel.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Scene\\LoadNextLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scene\\LoadNextLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T18:01:07.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GameTaskSO.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Interactable\\GameTaskSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable\\GameTaskSO.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Interactable\\GameTaskSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactable\\GameTaskSO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAACYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T18:42:56.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Player\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMove.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Player\\PlayerMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMove.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABQAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:42:27.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OpenDoor_01.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Other\\OpenDoor_01.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Other\\OpenDoor_01.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Other\\OpenDoor_01.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Other\\OpenDoor_01.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T18:44:20.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TaskNPCObject.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Interactable\\TaskNPCObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable\\TaskNPCObject.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Interactable\\TaskNPCObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactable\\TaskNPCObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:18:34.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Enemy\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemySpawner.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Enemy\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemySpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:27:32.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UIController.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\UIController.cs",
+              "RelativeDocumentMoniker": "Assets\\UIController.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\UIController.cs",
+              "RelativeToolTip": "Assets\\UIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:25:45.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Other\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Other\\CameraController.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Other\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Other\\CameraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:22:13.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EventSystem.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Library\\PackageCache\\com.unity.ugui@2.0.0\\Runtime\\UGUI\\EventSystem\\EventSystem.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@2.0.0\\Runtime\\UGUI\\EventSystem\\EventSystem.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Library\\PackageCache\\com.unity.ugui@2.0.0\\Runtime\\UGUI\\EventSystem\\EventSystem.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@2.0.0\\Runtime\\UGUI\\EventSystem\\EventSystem.cs",
+              "ViewState": "AQIAAKkBAAAAAAAAAAArwMMBAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:21:58.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoadAnim.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Scene\\LoadAnim.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scene\\LoadAnim.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Scene\\LoadAnim.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scene\\LoadAnim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:29:42.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ItemDetailUI.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\UI\\ItemDetailUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ItemDetailUI.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\UI\\ItemDetailUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ItemDetailUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:16:58.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DontDestory.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Scene\\DontDestory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scene\\DontDestory.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Scene\\DontDestory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scene\\DontDestory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:12:41.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HPController.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\HPController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HPController.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\HPController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HPController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T09:45:59.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "JavelinBullet.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Weapon\\JavelinBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\JavelinBullet.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\Weapon\\JavelinBullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon\\JavelinBullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T05:41:33.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ItemUI.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\UI\\ItemUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ItemUI.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\UI\\ItemUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ItemUI.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T18:13:02.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MessageUI.cs",
+              "DocumentMoniker": "D:\\unity project\\RPG2023\\Assets\\Scripts\\UI\\MessageUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MessageUI.cs",
+              "ToolTip": "D:\\unity project\\RPG2023\\Assets\\Scripts\\UI\\MessageUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MessageUI.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T18:08:52.435Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

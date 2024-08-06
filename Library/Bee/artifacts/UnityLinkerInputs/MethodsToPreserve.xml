@@ -1,0 +1,39 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="BossTalkController">
+			<method name="OnClickOK"/>
+		</type>
+		<type fullname="ItemDetailUI">
+			<method name="OnUseButtonClick"/>
+			<method name="OnUseButtonClick"/>
+			<method name="OnUseButtonClick"/>
+		</type>
+		<type fullname="ItemUI">
+			<method name="OnClick"/>
+			<method name="OnClick"/>
+			<method name="OnClick"/>
+			<method name="OnClick"/>
+			<method name="OnClick"/>
+			<method name="OnClick"/>
+		</type>
+		<type fullname="LoadStart">
+			<method name="LoadStartSceen"/>
+			<method name="LoadStartSceen"/>
+			<method name="Reload_02"/>
+			<method name="Reload_02"/>
+			<method name="Reload_03"/>
+		</type>
+		<type fullname="MenuController">
+			<method name="OnClickExchange"/>
+			<method name="OnClickExchange"/>
+			<method name="OnClickExchange"/>
+			<method name="OnClickMenu"/>
+			<method name="OnClickMenu"/>
+			<method name="OnClickMenu"/>
+		</type>
+		<type fullname="UIController">
+			<method name="OnClickExit"/>
+			<method name="OnClickStart"/>
+		</type>
+	</assembly>
+</linker>
